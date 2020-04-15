@@ -1,2 +1,2 @@
 # skylineQueries
-This algorithm calculates the skyline query at 2d space
+The algorithm calculates the skyline query for points in the two dimensional space.
